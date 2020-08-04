@@ -10,7 +10,7 @@
   <img align="left" alt="DataPirate007's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/github.png" />
 </a>
 
-<img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/discord.svg" /> KrishaayJois#8941
+<img align="left" alt="Krishaay's Github" width="21px" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/discord.svg" /> Little Coder ツ#2134
 
 <br />
 <br />
@@ -24,6 +24,7 @@ Hi, I'm Shivansh Mittal , I am python programmer, a middle school student, moder
 
 
 **Learning:**
+
 <code><img height="20" src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/python.png"></code>
 
 
